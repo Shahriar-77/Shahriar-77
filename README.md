@@ -2,7 +2,7 @@
 
 **AI/ML Practitioner | Data Science | NLP & Deep Learning | Engineer Turned Problem Solver**
 
-I’m a machine learning and data science enthusiast with a Master's in Mechatronics & Automatic Control (CGPA 4.0, UTM) and a BSc in Electrical & Electronic Engineering. I’ve transitioned from a strong research foundation in control systems to building practical, applied AI solutions — with a focus on clarity, reproducibility, and problem-first thinking.
+I’m a machine learning and data science enthusiast. I’ve transitioned from a strong research foundation in control systems to building practical, applied AI solutions — with a focus on clarity, reproducibility, and problem-first thinking.
 
 ---
 
