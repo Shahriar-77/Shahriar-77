@@ -46,7 +46,7 @@ I value **first-principles thinking**, clean code, and building solutions that a
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shahriar-islam-75567a160/)  
-- 📨 Email: [islam_shahriar@hotmail.com]
+- 📨 Email: islam_shahriar@hotmail.com
 
 I'm open to collaborations, freelance projects, and full-time AI/ML roles — especially those that value rigor, clarity, and curiosity.
 
