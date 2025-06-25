@@ -26,7 +26,7 @@ I’m a machine learning and data science enthusiast. I’ve transitioned from a
 
 ## 🧩 Featured Projects
 
-### 🔹 [BA House Price Predictor](https://github.com/Shahriar-77/ba-house-price-predictor)
+### 🔹 [BA House Price Predictor](https://github.com/Shahriar-77/buenos-aires-house-price-predictor)
 A full-cycle ML regression pipeline with geospatial visualization and Streamlit deployment.
 
 ### 🔹 [Whisper + NLLB Subtitle App (WIP)](https://github.com/Shahriar-77/whisper-nllb-subtitle-app)
