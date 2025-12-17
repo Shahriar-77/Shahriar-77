@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Shahriar Islam
 
-**AI/ML Practitioner | Data Science | NLP & Deep Learning | Engineer Turned Problem Solver**
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/pytorch-2.1-red)
+![Streamlit](https://img.shields.io/badge/streamlit-1.29-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-I’m a machine learning and data science enthusiast. I’ve transitioned from a strong research foundation in control systems to building practical, applied AI solutions — with a focus on clarity, reproducibility, and problem-first thinking.
+**AI/ML Practitioner | Data Science | Computer Vision & NLP | Deep Learning | Applied Researcher**
+
+I’m a machine learning and data science practitioner with a strong foundation in control systems and engineering. I design and implement applied AI solutions, specializing in **computer vision, temporal modeling, audio–video pipelines, NLP, and deep learning**. I focus on **reproducibility, clarity, and problem-first thinking**, bridging research concepts with practical, deployable systems.
 
 ---
 
 ## 🚀 What I’m Working On
 
-- 🏡 **BA House Price Predictor** – A deployed Streamlit app that predicts property prices in Buenos Aires using geospatial features and Optuna-tuned regression.
-- 🎧 **Whisper-Based Subtitle Translator (WIP)** – An offline app that transcribes and translates audio/video into multiple formats (.srt, .txt, .ass) using Whisper + NLLB.
-- 🧠 **Computer Vision Projects (Inspired by WorldQuant & fast.ai)** – Designing and solving practical problems using CV techniques like CNNs, transfer learning, and GANs, drawing from my experience in WorldQuant’s AI Lab and ongoing learning through fast.ai and Hugging Face courses.
+- 🏡 **BA House Price Predictor** – A deployed Streamlit app that predicts property prices in Buenos Aires using geospatial features and Optuna-tuned regression.  
+- 🎧 **Whisper-Based Subtitle Translator (WIP)** – An offline app that transcribes and translates audio/video into multiple formats (.srt, .txt, .ass) using Whisper + NLLB.  
+- 🎥 **Video Understanding & Temporal Modeling** – Building and analyzing models for human action recognition and audio–video pipelines, focusing on temporal reasoning, representation learning, and practical dataset/compute constraints.
 
 ---
 
@@ -27,13 +32,13 @@ I’m a machine learning and data science enthusiast. I’ve transitioned from a
 ## 🧩 Featured Projects
 
 ### 🔹 [BA House Price Predictor](https://github.com/Shahriar-77/buenos-aires-house-price-predictor)
-A full-cycle ML regression pipeline with geospatial visualization and Streamlit deployment.
+Full-cycle ML regression pipeline with geospatial visualization and Streamlit deployment.
 
 ### 🔹 [Whisper + NLLB Subtitle App (WIP)](https://github.com/Shahriar-77/whisper-nllb-subtitle-app)
-Offline transcription + translation pipeline for audio/video, with subtitle export and UI.
+Offline audio/video transcription and translation pipeline, with subtitle export and interactive UI.
 
-### 🔹 [Computer Vision Projects](#)
-Projects exploring CV applications through CNNs, GANs, and object detection techniques — defined and solved independently using tools from fast.ai, Hugging Face, and WorldQuant learning.
+### 🔹 [Video Understanding & Temporal Modeling](https://github.com/Shahriar-77/human-action-recognition-efficientnet-gru)
+Models for human action recognition and audio–video pipelines, focusing on temporal reasoning, representation learning, and practical dataset/compute constraints.
 
 ---
 
@@ -49,5 +54,3 @@ I value **first-principles thinking**, clean code, and building solutions that a
 - 📨 Email: islam_shahriar@hotmail.com
 
 I'm open to collaborations, freelance projects, and full-time AI/ML roles — especially those that value rigor, clarity, and curiosity.
-
----
